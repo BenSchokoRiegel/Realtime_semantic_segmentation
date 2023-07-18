@@ -1,0 +1,5 @@
+.kaggle/kaggle.json
+/.idea
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Data
